@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SocialMediaIntegration</string>
+
+    <string name="facebook_app_id">616yournumber83</string>
+    <string name="fb_login_protocol_scheme">fb61yournumber3</string>
+
+
+    <string name="welcome">Welcome</string>
+    <string name="cancel_login">The operation was canceled</string>
+    <string name="error_login">There was an error entering</string>
+    <string name="logout">Sign off</string>
+</resources>
